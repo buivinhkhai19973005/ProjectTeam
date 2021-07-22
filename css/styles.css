@@ -10,3 +10,65 @@ html,body {
     line-height: 1.15;
     color: rgba(22, 28, 45, 0.7);
 }
+
+/* Thao - About */
+.about h6{
+    color:#FF6600;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    letter-spacing: 1px;
+    display: block;
+    font-family: 'Pacifico', cursive;
+
+}
+
+.about h3{
+    color: black;
+    font-size: 40px;
+    line-height:50px;
+    font-weight: 550;
+}
+
+.about p{
+    font-size: 18px;
+    line-height: 28px;
+}
+
+
+
+/* Thao menu */
+
+.icon{
+    color: #FF6600;
+    width: 70px;
+    height: 70px;
+    text-align: center !important;
+    font-size: 25px;
+    line-height: 70px;
+    border-radius: 6px;
+    margin-right: 30px;
+    background-color: rgba(253, 251, 251, 0.959);
+}
+.icon:hover{
+    color: white;
+    background: #FF6600;
+}
+
+.menu__item h4 a{
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 600;
+    color: black;
+}
+.menu__item h4:hover a{
+    color: #FF6600;
+}
+.menu p{
+    line-height: 28px;
+    font-size: 18px;
+    margin: 19px 0;
+}
+
+
+
