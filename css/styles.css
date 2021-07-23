@@ -70,5 +70,17 @@ html,body {
     margin: 19px 0;
 }
 
+@media (min-width:992px) {
+    .menu .row {
+        display: flex;
+        flex-wrap: nowrap;
+    }
+}
 
+@media (max-width:991 px) {
+    .menu .row {
+        display: flex;
+        grid-template-columns: 50% 50%;
+    }
+}
 
