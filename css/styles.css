@@ -1320,3 +1320,85 @@ color: #ddd;
 .card .read:hover{
     color: #ff6600;
 }
+
+/* SLIDER - THẢO */
+
+.slider h6{
+    color:#FF6600;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    letter-spacing: 1px;
+    display: block;
+    font-family: 'Pacifico', cursive;
+
+}
+
+.slider h3{
+    color: black;
+    font-size: 40px;
+    line-height:50px;
+    font-weight: 550;
+}
+.slider p{
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 300;
+}
+
+.title-w3l {
+    font-size: 38px;
+    line-height: 48px;
+    font-weight: 600;
+}
+
+.w3l-clients blockquote q {
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 600;
+    color: black;
+}
+.w3l-clients .testimonial .peopl h3, .w3l-clients .testimonial .people-info h3 {
+    margin: 0;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.slider .testimonial img {
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+    overflow: hidden;
+    border-radius: 50%;
+}
+.testimonial {
+    width: 700px;
+    text-align: center;
+    margin: auto;
+}
+.slider blockquote q::before{
+    margin-top: 2rem;
+    font-size: 50px;
+    color: #FF6600;
+    display: block;
+    font-family: initial;
+}
+
+.owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
+    background: #FF6600;
+}
+.owl-dots {
+    position: absolute;
+    left: 60px;
+    right: 0;
+    bottom: -50px;
+    background: none;
+}
+
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
